@@ -1,8 +1,5 @@
-I am Amarjeet Verma, a Full-Stack Web Developer and DevOps-focused Engineer with hands-on experience in building scalable, production-ready web applications.
-
-I specialize in React, Node.js, Express, MongoDB, and modern UI frameworks such as Tailwind CSS, with a strong emphasis on performance, clean architecture, and user-centric design. I also work extensively with AWS services, CI/CD pipelines, and cloud deployments to deliver reliable and cost-effective solutions.
-
-I am currently building and maintaining multiple real-world projects, including business websites, research platforms, and SaaS-style applications. I have experience working in agile environments, leveraging Jira, GitHub workflows, and automated deployment strategies.
+# 💫 About Me:
+I am Amarjeet Verma, a Full-Stack Web Developer and DevOps-focused Engineer with hands-on experience in building scalable, production-ready web applications.<br><br>I specialize in React, Node.js, Express, MongoDB, and modern UI frameworks like Tailwind CSS, with a strong focus on performance, clean architecture, and user-centric design. I also work extensively with AWS services, CI/CD pipelines, and cloud deployments to deliver reliable and cost-effective solutions.<br><br>Currently,📫 Reach me at:<br><br>GitHub: https://github.com/amarjeetvr<br><br>Email: av457508@gmail.com
 
 
 # 💻 Tech Stack:
@@ -12,10 +9,3 @@ I am currently building and maintaining multiple real-world projects, including 
 ![](https://nirzak-streak-stats.vercel.app/?user=amarjeetvr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetvr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amarjeetvr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=amarjeetvr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
