@@ -63,12 +63,7 @@ I am eager to join a growth-oriented team where I can apply my practical experie
 ### 🌐 Frontend & UI
 <table align="center">
 <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS
-  </td>
+  
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
   </td>
@@ -84,7 +79,12 @@ I am eager to join a growth-oriented team where I can apply my practical experie
   <td align="center" width="96">
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
   </td>
-  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS
+  </td>
 </tr>
 </table>
 
