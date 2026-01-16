@@ -128,6 +128,13 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarjeetvr/amarjeetvr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarjeetvr/amarjeetvr/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/amarjeetvr/amarjeetvr/output/github-snake.svg" />
+</picture>
+
+
 
 <div align="center">
   <p><i>“Building systems that scale, automate, and perform — one commit at a time.”</i></p>
