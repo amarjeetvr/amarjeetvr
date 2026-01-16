@@ -80,10 +80,7 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=threejs" width="48"/><br/>Three.js
   </td>
-
-<td align="center" width="96">
-  <img src="https://greensock.com/uploads/monthly_2020_01/gsap-greensock.svg" width="48"/><br/>GSAP
-</td>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
 
   
 </tr>
@@ -115,9 +112,7 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase
   </td>
-<td align="center" width="96">
-    <img src="https://img.shields.io/badge/Payload-000000?style=flat-square&logo=payloadcms&logoColor=white"/><br/>Payload CMS
-  </td>
+
 </tr>
 </table>
 
