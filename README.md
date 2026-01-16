@@ -50,12 +50,7 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br/>Python
 </td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"/><br/>C++
-</td>
-<td align="center" width="96">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="65"/><br/>C
-</td>
+
 <td align="center" width="96">
 <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="65"/><br/>Java
 </td>
@@ -85,28 +80,49 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=threejs" width="48"/><br/>Three.js
   </td>
+
+<td align="center" width="96">
+  <img src="https://greensock.com/uploads/monthly_2020_01/gsap-greensock.svg" width="48"/><br/>GSAP
+</td>
+
+  
+</tr>
+</table>
+
+---
+
+
+---
+
+### 🧠 Backend & Databases
+<table align="center">
+<tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=gsap" width="48"/><br/>GSAP
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase
+  </td>
+  <td align="center" width="96">
+    <img src="https://payloadcms.com/images/logo.svg" width="48"/><br/>Payload CMS
   </td>
 </tr>
 </table>
 
 ---
 
-
-### 🧠 Backend & Databases
-<table align="center">
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase</td>
-</tr>
-</table>
-
----
 
 ### ☁️ DevOps, Cloud & Tools
 <table align="center">
