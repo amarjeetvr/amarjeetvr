@@ -116,13 +116,8 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
     <img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase
   </td>
 <td align="center" width="96">
-  <img 
-    src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEA8PEA8NDw8PDQ0ODQ8PDQ8NDg8PFREWFhURFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFRAQFysdHR0tLS0tLS0tLS0tLS0tLS0tKystLS04Ky0tLSstKy0tLS0tNy0tKystKysrLS0vLS0tK//AABEIAKMBNgMBIgACEQEDEQH/..."
-    width="48"
-  /><br/>
-  Payload CMS
-</td>
-
+    <img src="https://img.shields.io/badge/Payload-000000?style=flat-square&logo=payloadcms&logoColor=white"/><br/>Payload CMS
+  </td>
 </tr>
 </table>
 
