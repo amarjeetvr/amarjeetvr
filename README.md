@@ -139,9 +139,7 @@ I am eager to join a growth-oriented team where I can apply my practical experie
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=amarjeetvr&theme=dark&show_icons=true&hide_border=true&cache_seconds=86400"
-/>
+
 
 <br/><br/>
 
@@ -151,9 +149,6 @@ I am eager to join a growth-oriented team where I can apply my practical experie
 
 <br/><br/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetvr&theme=dark&layout=compact&hide_border=true&cache_seconds=86400"
-/>
 
 </div>
 
