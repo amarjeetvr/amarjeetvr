@@ -67,16 +67,32 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
 ### 🌐 Frontend & UI
 <table align="center">
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=threejs" width="48"/><br/>Three.js</td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=threejs" width="48"/><br/>Three.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=gsap" width="48"/><br/>GSAP
+  </td>
 </tr>
 </table>
 
 ---
+
 
 ### 🧠 Backend & Databases
 <table align="center">
