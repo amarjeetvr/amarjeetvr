@@ -128,13 +128,20 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
 
 ---
 
+---
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarjeetvr/amarjeetvr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarjeetvr/amarjeetvr/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/amarjeetvr/amarjeetvr/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution Snake game" src="dist/github-snake.svg" />
 </picture>
 
+<details>
+  <summary>😎 See my contributions in 3D</summary>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
+</details>
 
+---
 
 <div align="center">
   <p><i>“Building systems that scale, automate, and perform — one commit at a time.”</i></p>
