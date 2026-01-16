@@ -139,15 +139,26 @@ I am eager to join a growth-oriented team where I can apply my practical experie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amarjeetvr&theme=dark&hide_border=false&show_icons=true"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=amarjeetvr&theme=dark&show_icons=true&hide_border=true&cache_seconds=86400"
+/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=amarjeetvr&theme=dark&hide_border=false"/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetvr&theme=dark&layout=compact&hide_border=false"/>
+<img 
+  src="https://nirzak-streak-stats.vercel.app/?user=amarjeetvr&theme=dark&hide_border=true&cache_seconds=86400"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetvr&theme=dark&layout=compact&hide_border=true&cache_seconds=86400"
+/>
 
 </div>
 
 ---
+
 
 ---
 
