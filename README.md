@@ -32,11 +32,10 @@
 
 ## 🚀 About Me
 
-I am a **Full-Stack Web Developer and DevOps-focused Engineer** actively **seeking full-time opportunities** where I can apply my hands-on experience to build **scalable, high-performance, and production-ready web applications**.
+I am a motivated **Full-Stack Web Developer and DevOps-focused Engineer** actively **seeking full-time opportunities** where I can contribute to building **scalable, reliable, and production-ready digital solutions**.
 
-I specialize in **React, Next.js, Node.js, Express, MongoDB**, and modern UI frameworks like **Tailwind CSS**, with a strong focus on **clean architecture, performance optimization, and user-centric design**. On the infrastructure side, I work extensively with **AWS, CI/CD pipelines, cloud deployments, and automation workflows**, enabling reliable, secure, and cost-efficient systems.
+I am eager to join a growth-oriented team where I can apply my practical experience, take ownership of real-world challenges, and continuously grow while delivering meaningful business impact.
 
-I am highly motivated to join a **growth-oriented team** where I can contribute immediately, solve real-world problems, and continue evolving as a **full-stack and DevOps engineer** while delivering measurable business value.
 
 ---
 
