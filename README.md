@@ -21,10 +21,11 @@
   <a href="https://www.linkedin.com/in/amarjeet-verma-3725a4288">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portfolio-i7sq8d6rx-amajeet-vermas-projects.vercel.app/">
+  <a href="https://portfolio-lac-iota-16.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
 
 </div>
 
