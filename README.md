@@ -80,8 +80,9 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=threejs" width="48"/><br/>Three.js
   </td>
+  <td align="center" width="96">
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-
+  </td>
   
 </tr>
 </table>
