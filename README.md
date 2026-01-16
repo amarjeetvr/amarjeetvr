@@ -169,5 +169,6 @@ I am eager to join a growth-oriented team where I can apply my practical experie
   <p><i>“Building systems that scale, automate, and perform — one commit at a time.”</i></p>
   <img src="https://komarev.com/ghpvc/?username=amarjeetvr&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
     <h3>Would Love to Connect! 😊</h3>
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
