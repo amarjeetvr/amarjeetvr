@@ -77,7 +77,7 @@ I am eager to join a growth-oriented team where I can apply my practical experie
     <img src="https://skillicons.dev/icons?i=threejs" width="48"/><br/>Three.js
   </td>
   <td align="center" width="96">
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" width="48"/><br/>GSAP
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" width="48"/>
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML
