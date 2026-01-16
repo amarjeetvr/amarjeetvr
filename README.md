@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
 <h1 align="center">Hi, I'm <span style="color:#4FC3F7;">Amarjeet Verma</span></h1>
-<h4 align="center">Full-Stack Web Developer | DevOps-Focused Engineer | Cloud & Automation Enthusiast</h4>
+<h4 align="center">Full-Stack Web Developer | DevOps-Focused Engineer | AI  Automation Enthusiast</h4>
 
 <a href="https://github.com/amarjeetvr">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D3AEE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;DevOps+Engineer;MERN+Stack+Specialist;Cloud+%26+CI%2FCD+Enthusiast;Building+Scalable+Web+Systems" alt="Typing SVG"/>
@@ -128,20 +128,7 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
 
 ---
 
----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub contribution Snake game" src="dist/github-snake.svg" />
-</picture>
-
-<details>
-  <summary>😎 See my contributions in 3D</summary>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
-</details>
-
----
 
 <div align="center">
   <p><i>“Building systems that scale, automate, and perform — one commit at a time.”</i></p>
