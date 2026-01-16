@@ -120,6 +120,15 @@ I also work extensively with **AWS, CI/CD pipelines, cloud deployments, and auto
 
 ---
 
+---
+
+## 📈 Contribution Activity
+
+[![Amarjeet's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarjeetvr&theme=github-dark-dimmed)](https://github.com/amarjeetvr)
+
+---
+
+
 <div align="center">
   <p><i>“Building systems that scale, automate, and perform — one commit at a time.”</i></p>
   <img src="https://komarev.com/ghpvc/?username=amarjeetvr&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
