@@ -139,15 +139,10 @@ I am eager to join a growth-oriented team where I can apply my practical experie
 
 <div align="center">
 
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=amarjeetvr&theme=dark&hide_border=true"
-/>
-
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=amarjeetvr&theme=dark&hide_border=true" />
 
 </div>
+
 
 ---
 
