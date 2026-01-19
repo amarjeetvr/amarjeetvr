@@ -139,16 +139,13 @@ I am eager to join a growth-oriented team where I can apply my practical experie
 
 <div align="center">
 
-
-
 <br/><br/>
 
-<img 
-  src="https://nirzak-streak-stats.vercel.app/?user=amarjeetvr&theme=dark&hide_border=true&cache_seconds=86400"
+<img
+  src="https://streak-stats.demolab.com?user=amarjeetvr&theme=dark&hide_border=true"
 />
 
 <br/><br/>
-
 
 </div>
 
